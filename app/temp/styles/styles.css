@@ -1,0 +1,6 @@
+body {
+    color: #2f6572;
+    margin: 10px;
+    -moz-columns: 310px 2;
+         columns: 310px 2;
+}
